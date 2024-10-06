@@ -1,0 +1,12 @@
+{
+  "name": "ExistentialCillian",
+  "symbol": "CILLIAN",
+  "uri": "https://raw.githubusercontent.com/username/repo/branch/metadata.json", // Replace with your actual link
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "YourWalletAddress",
+      "share": 100
+    }
+  ]
+}
